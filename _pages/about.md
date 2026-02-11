@@ -17,42 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 🧑‍💻 About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/inscen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I have broad interests in Internet measurement, protocol security, and software supply-chain security. My current research focuses on public key infrastructure (PKI) and code signing. I graduated from [Beihang University](https://ev.buaa.edu.cn/) in 2023 and joined the [NISL Lab](https://netsec.ccert.edu.cn/en/) at Tsinghua University in the same year to pursue my Ph.D., advised by Professor [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/) and [Lingyun Ying](https://scholar.google.com/citations?&user=eJXxo-gAAAAJ). I have been a research intern at [QI-ANXIN](https://en.qianxin.com/about/) Technology Research Institute (Beijing) since 2025.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 One paper accpeted by NDSS 2026.
+- *2025.10*: &nbsp;🎉🎉 Passed Ph.D. Qualifier Exam.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [Understanding the Status and Strategies of the Code Signing Abuse Ecosystem](files/ndss26-codesign.pdf). **Hanqing Zhao**, Yiming Zhang, Lingyun Ying, Mingming Zhang, Baojun Liu,Haixin Duan, Zi-Quan You, Shuhao Zhang. **NDSS 2026** (CCF-A, Big4).
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Analyzing Compliance and Complications of Integrating  Internationalized X.509 Certificates](files/imc25-unicert.pdf). Mingming Zhang, Jinfeng Guo, Yiming Zhang, Shenglin Zhang, Baojun Liu, **Hanqing Zhao**, Xiang Li, Haixin Duan. **ACM IMC 2025** (CCF-B).
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.6* Outstanding Graduate of Beihang University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Present*, Ph.D in Electronics and Information Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
+- *2019.09 - 2023.06*, B.Sc. in Information Security, [Beihang University](https://ev.buaa.edu.cn/). 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📝 Services
+- Artifact Evaluation Committee, USENIX Security 2025
+- Teaching Assistant, *Security Design and Analysis of Network Protocols* (74120033-0), Fall Semester (AY 2025–2026). Instructor: Haixin Duan
+- Teaching Assistant, *Computer Network Security Technologies* (80240352-0), Spring Semester (AY 2024–2025). Instructor: Baojun Liu
