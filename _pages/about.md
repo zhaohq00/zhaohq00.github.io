@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧑‍💻 About Me
 
-I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/inscen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). I have broad interests in Internet measurement, protocol security, and software supply-chain security. My current research focuses on public key infrastructure (PKI) and code signing. I graduated from [Beihang University](https://ev.buaa.edu.cn/) in 2023 and joined the [NISL Lab](https://netsec.ccert.edu.cn/en/) at Tsinghua University in the same year to pursue my Ph.D., advised by Professor [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/) and [Lingyun Ying](https://scholar.google.com/citations?&user=eJXxo-gAAAAJ). I have been a research intern at [QI-ANXIN](https://en.qianxin.com/about/) Technology Research Institute (Beijing) since 2025.
+I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](https://www.insc.tsinghua.edu.cn/inscen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), with broad interests in Internet measurement, protocol security, and software supply-chain security. My current research focuses on public key infrastructure (PKI) and code signing. I graduated from [Beihang University](https://ev.buaa.edu.cn/) in 2023 and joined the [NISL Lab](https://netsec.ccert.edu.cn/en/) at Tsinghua University in the same year to pursue my Ph.D., advised by Professor [Haixin Duan](https://netsec.ccert.edu.cn/people/duanhx/) and [Lingyun Ying](https://scholar.google.com/citations?&user=eJXxo-gAAAAJ). I have been a research intern at [QI-ANXIN](https://en.qianxin.com/about/) Technology Research Institute (Beijing) since 2025.
 
 
 # 🔥 News
