@@ -37,7 +37,7 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 
 # 📖 Educations
 - *2023.09 - Present*, Ph.D in Electronics and Information Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
-- *2019.09 - 2023.06*, B.Sc. in Information Security, [Beihang University](https://ev.buaa.edu.cn/). 
+- *2019.09 - 2023.06*, B.Eng. in Information Security, [Beihang University](https://ev.buaa.edu.cn/). 
 
 # 📝 Services
 - Artifact Evaluation Committee, USENIX Security 2025
