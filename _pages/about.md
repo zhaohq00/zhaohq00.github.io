@@ -33,6 +33,7 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 - [Analyzing Compliance and Complications of Integrating  Internationalized X.509 Certificates](files/imc25-unicert.pdf). Mingming Zhang, Jinfeng Guo, Yiming Zhang, Shenglin Zhang, Baojun Liu, **Hanqing Zhao**, Xiang Li, Haixin Duan. **ACM IMC 2025** (CCF-B).
 
 # 🎖 Honors and Awards
+- *2026.3* 2025 Outstanding Intern at QI-ANXIN.
 - *2023.6* Outstanding Graduate of Beihang University.
 
 # 📖 Educations
@@ -40,6 +41,7 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 - *2019.09 - 2023.06*, B.Eng. in Information Security, [Beihang University](https://ev.buaa.edu.cn/). 
 
 # 📝 Services
-- Artifact Evaluation Committee, USENIX Security 2025
-- Teaching Assistant, *Security Design and Analysis of Network Protocols* (74120033-0), Fall Semester (AY 2025–2026). Instructor: Haixin Duan
-- Teaching Assistant, *Computer Network Security Technologies* (80240352-0), Spring Semester (AY 2024–2025). Instructor: Baojun Liu
+- Code Signing Certificate Working Group, CA/Browser Forum.
+- Artifact Evaluation Committee, USENIX Security 2025.
+- Teaching Assistant, *Security Design and Analysis of Network Protocols* (74120033-0), Fall Semester (AY 2025–2026). Instructor: Haixin Duan.
+- Teaching Assistant, *Computer Network Security Technologies* (80240352-0), Spring Semester (AY 2024–2025). Instructor: Baojun Liu.
