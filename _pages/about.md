@@ -41,7 +41,7 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 - *2019.09 - 2023.06*, B.Eng. in Information Security, [Beihang University](https://ev.buaa.edu.cn/). 
 
 # 📝 Services
-- Code Signing Certificate Working Group, CA/Browser Forum.
+- Code Signing Certificate Working Group (CSCWG), CA/Browser Forum.
 - Artifact Evaluation Committee, USENIX Security 2025.
 - Teaching Assistant, *Security Design and Analysis of Network Protocols* (74120033-0), Fall Semester (AY 2025–2026). Instructor: Haixin Duan.
 - Teaching Assistant, *Computer Network Security Technologies* (80240352-0), Spring Semester (AY 2024–2025). Instructor: Baojun Liu.
