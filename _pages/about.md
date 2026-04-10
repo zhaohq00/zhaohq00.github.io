@@ -40,6 +40,9 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 - *2023.09 - Present*, Ph.D in Electronics and Information Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
 - *2019.09 - 2023.06*, B.Eng. in Information Security, [Beihang University](https://ev.buaa.edu.cn/). 
 
+# 💬 Talks and Presentations
+- *2026.4*, Understanding the Status and Strategies of the Code Signing Abuse Ecosystem, Postgraduate Academic Forum, Tsinghua University, China.
+
 # 📝 Services
 - Code Signing Certificate Working Group (CSCWG), CA/Browser Forum.
 - Artifact Evaluation Committee, USENIX Security 2025.
