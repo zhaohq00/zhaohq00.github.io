@@ -23,6 +23,7 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Presented a poster at the 1st CCF Network and System Security Conference.
 - *2025.12*: &nbsp;🎉🎉 One paper accpeted by NDSS 2026.
 - *2025.10*: &nbsp;🎉🎉 Passed Ph.D. Qualifier Exam.
 
@@ -42,6 +43,7 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 
 # 💬 Talks and Presentations
 - *2026.4*, Understanding the Status and Strategies of the Code Signing Abuse Ecosystem, Postgraduate Academic Forum, Tsinghua University, China.
+- *2026.8*, Ghost Certificates: Structural Revocation Failures in Code-Signing PKI (Poster Presentation), The 1st CCF Network and System Security Conference, Hangzhou, China.
 
 # 📝 Services
 - Code Signing Certificate Working Group (CSCWG), CA/Browser Forum.
