@@ -42,8 +42,8 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 - *2019.09 - 2023.06*, B.Eng. in Information Security, [Beihang University](https://ev.buaa.edu.cn/). 
 
 # 💬 Talks and Presentations
-- *2026.4*, Understanding the Status and Strategies of the Code Signing Abuse Ecosystem, Postgraduate Academic Forum, Tsinghua University, China.
 - *2026.8*, Ghost Certificates: Structural Revocation Failures in Code-Signing PKI (Poster Presentation), The 1st CCF Network and System Security Conference, Hangzhou, China.
+- *2026.4*, Understanding the Status and Strategies of the Code Signing Abuse Ecosystem, Postgraduate Academic Forum, Tsinghua University, China.
 
 # 📝 Services
 - Code Signing Certificate Working Group (CSCWG), CA/Browser Forum.
