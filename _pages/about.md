@@ -23,9 +23,9 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 One paper accpeted by NDSS 2027.
+- *2026.09*: &nbsp;🎉🎉 One paper accepted by NDSS 2027.
 - *2026.08*: &nbsp;🎉🎉 Presented a poster at the 1st CCF Network and System Security Conference.
-- *2025.12*: &nbsp;🎉🎉 One paper accpeted by NDSS 2026.
+- *2025.12*: &nbsp;🎉🎉 One paper accepted by NDSS 2026.
 - *2025.10*: &nbsp;🎉🎉 Passed Ph.D. Qualifier Exam.
 
 # 📝 Publications 
