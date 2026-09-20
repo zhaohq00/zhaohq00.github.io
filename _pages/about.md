@@ -23,11 +23,14 @@ I am a Ph.D. student at the [Institute for Network Sciences and Cyberspace](http
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper accpeted by NDSS 2027.
 - *2026.08*: &nbsp;🎉🎉 Presented a poster at the 1st CCF Network and System Security Conference.
 - *2025.12*: &nbsp;🎉🎉 One paper accpeted by NDSS 2026.
 - *2025.10*: &nbsp;🎉🎉 Passed Ph.D. Qualifier Exam.
 
 # 📝 Publications 
+
+- Standards-to-Surface: A Comprehensive Evaluation of Windows Code-Signing (Non)Compliance. **Hanqing Zhao**, Yiming Zhang, Lingyun Ying, Zi-Quan You, Baojun Liu, Haixin Duan, Shuhao Zhang, Huquan Jin. **NDSS 2027** (CCF-A, Big4).
 
 - [Understanding the Status and Strategies of the Code Signing Abuse Ecosystem](files/ndss26-codesign.pdf). **Hanqing Zhao**, Yiming Zhang, Lingyun Ying, Mingming Zhang, Baojun Liu,Haixin Duan, Zi-Quan You, Shuhao Zhang. **NDSS 2026** (CCF-A, Big4).
 
